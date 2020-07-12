@@ -1,0 +1,40 @@
+body {
+    padding: 10px;
+
+}
+
+.blog {
+    padding: 50px;
+}
+
+.bolg-heading {
+    color: #dca52e;
+    padding-top: 30px;
+    text-align: center;
+    margin-bottom: 2em;
+
+}
+
+.blog-body {
+    margin: 10px;
+    color: white;
+}
+
+
+.logo-brand {
+    padding-right: 10px;
+    margin-top: 1em;
+    float: right;
+    color: #fff;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    line-height: 20px;
+    font-family: 'Raleway', sans-serif;
+}
+.logo-brand span {
+background: linear-gradient(to bottom, #fa9b1b 7%, #dca52e 93%);
+-webkit-background-clip: text;
+color: transparent;
+}
