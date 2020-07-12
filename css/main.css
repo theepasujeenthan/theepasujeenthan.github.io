@@ -368,7 +368,7 @@ h6 {
 }
 
 .slide-menu .logo {
-    padding: 50px 0;
+    padding: 40px 0;
     text-align: center;
     border-bottom: 1px solid rgba(255, 255, 255, .1);
     box-shadow: 0 0 10px rgba(0, 0, 0, .1);
@@ -397,7 +397,7 @@ h6 {
 .slide-menu .menu-list li a {
     position: relative;
     display: inline-block;
-    padding: 15px 5px;
+    padding: 10px 5px;
     padding-left: 35px;
     font-size: 14px;
     color: #9a9b9c;
