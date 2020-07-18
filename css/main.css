@@ -1440,7 +1440,7 @@ h6 {
 
 .footer .logo {
     color: #fff;
-    font-size: 24px;
+    font-size: 18px;
     font-weight: 600;
     text-transform: capitalize;
     letter-spacing: 1px;
@@ -1484,7 +1484,7 @@ h6 {
 }
 
 .footer .copyright p {
-    font-weight: 600;
+    font-weight: 500;
     letter-spacing: 1px;
     line-height: 1.8;
     margin: 0;
